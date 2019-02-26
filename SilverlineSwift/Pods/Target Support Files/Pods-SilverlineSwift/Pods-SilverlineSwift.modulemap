@@ -1,0 +1,6 @@
+framework module Pods_SilverlineSwift {
+  umbrella header "Pods-SilverlineSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

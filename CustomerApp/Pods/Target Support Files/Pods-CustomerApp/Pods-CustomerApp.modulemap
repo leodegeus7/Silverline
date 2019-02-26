@@ -1,0 +1,6 @@
+framework module Pods_CustomerApp {
+  umbrella header "Pods-CustomerApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

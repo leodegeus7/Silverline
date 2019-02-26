@@ -1,0 +1,6 @@
+framework module Pods_SilverlineSwiftTests {
+  umbrella header "Pods-SilverlineSwiftTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
